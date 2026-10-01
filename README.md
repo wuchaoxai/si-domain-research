@@ -4,14 +4,22 @@
 
 **这是一份2026年9月30日至10月1日的研究快照，不是实时可注册清单。** 请先看每个域名的状态和查询时间，再到注册商核验。作者已停止继续囤积，分享不代表鼓励把整份榜单注册下来。
 
-## 下载
+## 一次下载完整总表
 
-- [Excel总表：SI-domain-research.xlsx](SI-domain-research.xlsx?raw=true) — 候选参考榜、方法进度、域名总表、43项已持有、成交映射、使用说明。
+### [⬇ 下载完整总表（Excel，一个文件）](SI-domain-research.xlsx?raw=true)
+
+**普通读者只需下载上面这一个文件，无需逐个下载分表。** 文件包含六张工作表：**域名总表、候选参考榜、方法进度、已持有46、成交映射、使用说明**。打开后可切换底部标签；完整域名总表放在第一页。
+
+<details>
+<summary>可选：CSV分表与JSON，供筛选、脚本及二次分析</summary>
+
 - [候选参考榜CSV](candidates.csv?raw=true) — 按唯一研究推荐分从高到低排列。
-- [全部域名CSV](domains.csv?raw=true) / [方法进度CSV](methods.csv?raw=true) / [成交映射CSV](sales.csv?raw=true) / [已持有CSV](owned.csv?raw=true)。CSV使用UTF-8 BOM，可供Excel、Numbers、WPS及脚本读取。
+- [全部域名CSV](domains.csv?raw=true) / [方法进度CSV](methods.csv?raw=true) / [成交映射CSV](sales.csv?raw=true) / [已持有CSV](owned.csv?raw=true)。CSV使用UTF-8 BOM。
 - [结构化JSON](data.json?raw=true) — 完整公开字段、统计、方法、限制说明及来源URL。
 
-GitHub如果无法预览大文件，请点击文件页的 **Download raw file**，或在仓库首页选择 **Code → Download ZIP**。
+</details>
+
+GitHub如果无法预览大文件，请点击文件页的 **Download raw file**；需要把所有格式打包下载时，可在仓库首页选择 **Code → Download ZIP**。
 
 ## 做到哪里了
 
@@ -23,8 +31,8 @@ GitHub如果无法预览大文件，请点击文件页的 **Download raw file**�
 | 查询方法 | 24类原方法＋1类后续逐名补查 |
 | 历史可注册证据条目 | 4,613 |
 | 已保存的后续逐名注册商信号 | 215 |
-| 作者已持有 | 43 |
-| 有分且仍可列作重查候选 | 4,550 |
+| 作者已持有 | 46 |
+| 有分且仍可列作重查候选 | 4,547 |
 | 其他后缀公开成交映射 | 44 |
 
 方法之间会重叠，不能把每一类的数量直接相加。原池已形成明确结果，不能据此说查完了全部词典或整个市场；范围及待扩展方向见“方法进度”。具体构建时间以 `data.json` 的 `as_of_utc` 为准，查询时间逐名保留为UTC。
@@ -44,7 +52,7 @@ GitHub如果无法预览大文件，请点击文件页的 **Download raw file**�
 | 转入入口 | TRANSFER，不是普通新注册报价，不列入候选榜 |
 | 注册局有注册记录 | 保存的注册局查询返回200；不列入候选榜 |
 | 注册商/注册局冲突 | TRANSFER与RDAP404不一致；暂停推荐，不能认定已被抢注 |
-| 作者已持有 | 39项账户导出显示ACT，4项用户文字确认；均移出候选榜 |
+| 作者已持有 | 46项最新账户导出显示ACT；均移出候选榜 |
 | 历史有记录或不可普通注册 | 原池当时未得到普通注册结果；需要时再复核 |
 
 RDAP404本身不能保证能买。报价仅代表对应注册商和时间，不是作者支付价格；转入价格不作为新注册价格公开。最新信号和历史证据分别保存，避免用今天的状态抹去昨天的观察。
