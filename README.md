@@ -29,7 +29,7 @@ GitHub如果无法预览大文件，请点击文件页的 **Download raw file**�
 
 ## 我持有的46个域名：欢迎分享、低价询购
 
-我愿意以较低价格转让这些域名，希望它们被真正用起来；具体价格逐个沟通。**[查看完整46项持有名单](OWNED_DOMAINS.md)**，或[在GitHub Issue中询价](https://github.com/wuchao-zz/si-domain-research/issues/new)，写下域名、项目用途和预算。
+我愿意以较低价格转让这些域名，希望它们被真正用起来；具体价格逐个沟通。**[查看完整46项持有名单](OWNED_DOMAINS.md)**，或[在GitHub Issue中询价](https://github.com/wuchaoxai/si-domain-research/issues/new)，写下域名、项目用途和预算。
 
 这些域名已注册并从候选榜剔除，购买作者持有域名与向注册商新注册是两回事。
 
