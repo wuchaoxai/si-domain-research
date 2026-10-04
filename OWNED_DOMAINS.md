@@ -1,16 +1,23 @@
-# 吴超持有的46个 .si 域名
+# 吴超持有的105个 .si 域名
 
-欢迎分享这份研究，也欢迎看看是否有适合你项目的名字。**我愿意以较低价格转让这些域名，希望它们被真正用起来。** 具体域名的价格和转移安排逐项沟通，目前没有统一的标价。
+欢迎分享这份研究，也欢迎看看是否有适合你项目的名字。**可转让域名愿意低价沟通，希望被真正用起来。** 部分域名对应我自己的项目，是否转让、具体价格和转移安排逐项确认，目前没有统一标价。
 
 想询价，可以[在本仓库新建一个Issue](https://github.com/wuchaoxai/si-domain-research/issues/new)，写下**域名、拟做的项目、预算范围**。请不要公开密码、转移授权码或付款资料；Issue用于询价，成交和交接另行确认。
 
-以下46项来自本人最新账户导出，2026年10月1日记录均显示Active。它们已经注册，**不属于可供别人直接新注册的候选**。词义只是命名参考，不表示任何同名企业是买家或认可这些域名。
+2026年10月4日核对最新账户导出，共105个唯一域名，全部显示Active。它们已经注册，**不属于可供别人直接新注册的候选**。同名品牌仅作名称识别，不表示该企业是买家、认可本项目或已完成权利审查。
 
 | 域名 | 中文含义或命名参考 |
 |---|---|
+| `shequ.si` | 社区 |
 | `meishi.si` | 美食 |
 | `fenshen.si` | 分身 |
 | `huiyi.si` | 会议 |
+| `shengyi.si` | 生意 |
+| `haian.si` | 海岸 |
+| `meizu.si` | 魅族，同名品牌词 |
+| `setapp.si` | Setapp，同名应用服务 |
+| `anytype.si` | Anytype，同名笔记产品 |
+| `todoist.si` | Todoist，同名任务管理产品 |
 | `peilian.si` | 陪练 |
 | `peiyin.si` | 配音 |
 | `jianzhan.si` | 建站 |
@@ -47,12 +54,64 @@
 | `mianshi.si` | 面试 |
 | `yunying.si` | 运营 |
 | `biji.si` | 笔记 |
+| `baiji.si` | 百吉 |
 | `xinghe.si` | 星河 |
+| `biogeek.si` | BIOGEEK，百吉现行英文品牌 |
 | `xingyun.si` | 星云 |
 | `zhushou.si` | 助手 |
+| `shishu.si` | 史书 |
+| `xingguang.si` | 星光 |
 | `fuwu.si` | 服务 |
 | `licai.si` | 理财 |
 | `touzi.si` | 投资 |
 | `yuyin.si` | 语音 |
+| `lanhu.si` | 蓝湖，同名产品词 |
+| `yuque.si` | 语雀，同名产品词 |
+| `bailu.si` | 白鹭／白露 |
+| `yunque.si` | 云雀 |
+| `haiou.si` | 海鸥 |
+| `xiaolu.si` | 小鹿 |
+| `yetu.si` | 野兔 |
+| `hetun.si` | 河豚 |
+| `tangyuan.si` | 汤圆 |
+| `dahuo.si` | 搭伙 |
+| `yujian.si` | 遇见／预见等同音命名 |
+| `heihei.si` | 嘿嘿 |
+| `huanxi.si` | 欢喜 |
+| `lanmei.si` | 蓝莓 |
+| `taozi.si` | 桃子 |
+| `qingmei.si` | 青梅 |
+| `douzi.si` | 豆子 |
+| `jiegou.si` | 结构 |
+| `afei.si` | 阿飞 |
+| `wuxian.si` | 无限／无羡等同音命名 |
+| `dingdang.si` | 叮当 |
+| `totoro.si` | 龙猫，角色名 |
+| `yingwu.si` | 鹦鹉 |
+| `bage.si` | 八哥 |
+| `xique.si` | 喜鹊 |
+| `yanzi.si` | 燕子 |
+| `honghu.si` | 鸿鹄 |
+| `maque.si` | 麻雀 |
+| `zhuque.si` | 朱雀 |
+| `jingwei.si` | 经纬 |
+| `laohu.si` | 老虎 |
+| `xiniu.si` | 犀牛 |
+| `ciwei.si` | 刺猬 |
+| `zhangyu.si` | 章鱼 |
+| `shuimu.si` | 水母 |
+| `bihu.si` | 壁虎 |
+| `bajie.si` | 八戒 |
+| `rulai.si` | 如来 |
+| `mulan.si` | 木兰 |
+| `popeye.si` | 大力水手，角色名 |
+| `hirono.si` | 小野，角色名 |
+| `linabell.si` | 玲娜贝儿，角色名 |
+| `miffy.si` | 米菲，角色名 |
+| `ponyo.si` | 波妞，角色名 |
+| `tonghua.si` | 童话 |
+| `dazhong.si` | 大众，同名品牌词 |
+| `benchi.si` | 奔驰，同名品牌词 |
+| `baoma.si` | 宝马，同名品牌词 |
 
 [返回研究总表](README.md) · [下载完整Excel](SI-domain-research.xlsx?raw=true) · [持有名单CSV](owned.csv?raw=true)
