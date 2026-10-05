@@ -2,6 +2,12 @@
 
 研究日期：2026年9月29日至10月1日。以下是**本次已比较范围中的四家低价候选**，不是全世界注册商的绝对最低价。首年注册、年度续费、会员费用、币种与税费需要分别看；不要只看首年。
 
+## 10月5日：优惠额度用完后的账户反馈
+
+用户最新账户导出显示持有120个域名。作者报告当前套餐优惠额度已用完，**新注册报价约US$13/个，续费也变贵**；准确续费金额尚未确认，不能用首年报价代替续费报价。下方仍保留9月30日至10月1日的历史比较，不代表今天的结账价。
+
+官方说明按注册、续费和转入等操作消耗套餐额度，并非仅按持仓数量计数。作者这次在超过100个持仓时遇到涨价，但其账户反馈不构成所有用户统一报价或套餐条款的完整解释。持仓应结合自己的实际续费账单安排，而不是只根据抢注热度增加。
+
 ## 四家怎么选
 
 | 注册商及官方入口 | 普通.si首年注册 | 续费/年 | 价格证据 | 我会在什么情况下考虑 |
@@ -27,4 +33,4 @@ Basic S的重要条件是**100次域名操作**，注册、续费、转入都会
 
 官方参考：[会员计划](https://www.openprovider.com/membership-plans) · [操作额度](https://openprovider.help/books/memberships/page/sizes-of-membership-plans-and-domains-counter) · [会员到期与自动续订](https://support.openprovider.eu/hc/en-us/articles/360033362034-Membership-expiration-renewal-upgrade-and-downgrade)。
 
-[返回研究总表](README.md) · [下载完整Excel](SI-domain-research.xlsx?raw=true) · [查看我的46个域名](OWNED_DOMAINS.md)
+[返回研究总表](README.md) · [下载完整Excel](SI-domain-research.xlsx?raw=true) · [查看我的120个域名](OWNED_DOMAINS.md)
